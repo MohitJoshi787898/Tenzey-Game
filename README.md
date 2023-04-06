@@ -18,7 +18,6 @@ Click on the Play button to start a new game.
 Select the number of dice you want to play with and click on the Roll Dice button to start the game.
 Click on any dice to select it, and then click on a colored tile to move the selected dice to that tile.
 Keep rolling the dice and moving the dice to capture all the opponent's pieces.
-You can also play against the AI opponent by selecting the Play Against AI option from the Play menu.
 # Technologies Used
 React
 JavaScript
